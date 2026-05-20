@@ -1,5 +1,6 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
+import Foundation
 
 @main
 struct SwiftPlayground {
@@ -7,7 +8,6 @@ struct SwiftPlayground {
         print("Hello, world!")
         // Test that it works as it should using the testing table
 // Task - Only to accept people in if they are over the age of 18 
-import Foundation
 
 print("What is your age?")
 
