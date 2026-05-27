@@ -13,7 +13,7 @@ print("Quantity: 3.0")
 let quantity = 3.0
 
 print("Subtotal: $\(19.99 * 3.0)")
-let subtotal: 
+if pricePerItem 
 
 print("Tax (15%): $\(19.99 * 3.0 * 0.15)")
 print("Total: $\(19.99 * 3.0 * 1.15)")
