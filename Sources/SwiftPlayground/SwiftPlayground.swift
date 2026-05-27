@@ -5,8 +5,10 @@ import Foundation
 @main
 struct SwiftPlayground {
     static func main() {
-        PriceperItem
+
 print("Price per item: $19.99")
+let pricePerItem:
+
 print("Quantity: 3.0")
 print("Subtotal: $\(19.99 * 3.0)")
 print("Tax (15%): $\(19.99 * 3.0 * 0.15)")
