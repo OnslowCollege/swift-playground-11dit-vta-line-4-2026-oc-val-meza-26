@@ -25,9 +25,16 @@ let total: Double = subtotal * taxRate
 //task
 
 print("The length of the rectangle is \(12.5) units.")
+let length: Double = 12.5
+
 print("The width of the rectangle is \(8) units.")
+let width: Double = 8
+
 print("The area of the rectangle is \(12.5 * 8.0) square units.")
+let area: Double = length * width
+
 print("The perimeter of the rectangle is \(2 * (length + width)) units.")
+let perimeter: Double = 2 * (length + width)
 
     }
 }
