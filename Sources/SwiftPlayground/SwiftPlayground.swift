@@ -6,7 +6,7 @@ import Foundation
 struct SwiftPlayground {
     static func main() {
 
-//cost of items purchased 
+print ("Price per person: $\(total/ friends)")
 
     }
 }
