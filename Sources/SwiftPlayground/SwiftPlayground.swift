@@ -6,6 +6,7 @@ import Foundation
 struct SwiftPlayground {
     static func main() {
         
+
 //task three
 print ("what is ur name?")
 let firstName = readLine()!
