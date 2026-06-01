@@ -8,8 +8,7 @@ struct SwiftPlayground {
 
 
 
-print ("what is your birth year?")
-userInput = readLine()!
+
 
 
 
