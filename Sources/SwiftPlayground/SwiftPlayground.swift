@@ -6,7 +6,12 @@ import Foundation
 struct SwiftPlayground {
     static func main() {
 
-print ("Price per person: $\(total/ friends)")
+
+
+print ("what is your birth year?")
+userInput = readLine()!
+
+
 
     }
 }
